@@ -3,9 +3,28 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
 />
 
-<h2 align="center" class="animate__animated animate__zoomIn">
-Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm <span style="color:#00FFFF;">Waiz Imran</span> 👨‍💻
-</h2>
+<!-- WELCOME BANNER -->
+
+<h1 align="center" class="animate__animated animate__zoomIn">
+Hey <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji"  height="50"> I'm <span style="color:#00FFFF;">Waiz Imran</span> 👨‍💻
+</h1>
+
+<h3 align="center">
+  💻 Python Developer | ☁️ Cloud & Data Enthusiast | ⚙️ Automation Builder
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Python+Developer;Cloud+and+Data+Engineer;Kafka+%7C+Airflow+%7C+Snowflake;Building+Data+Pipelines+%26+Automations" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://github.com/waizimran/waizimran/blob/main/assets/banner-dark.gif" width="80%" alt="waiz banner"/>
+</p>
+
+<p align="center">
+  <b><i>⚡ Turning Ideas into Automated Solutions ⚡</i></b>
+</p>
+
+---
 
 <p align="center">
 💡 A passionate <strong>Python Developer</strong> and <strong>Tech Enthusiast</strong> who loves to explore new technologies, solve problems, and build cool stuff. 🚀  
