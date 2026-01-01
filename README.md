@@ -71,22 +71,7 @@ Hey <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Em
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waiz-Imran&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waiz-Imran&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Waiz-Imran&theme=onedark&no-frame=true&margin-w=15&column=6"/>
-</p>
-
----
 
 ## ✨ Where You Can Find Me
 
